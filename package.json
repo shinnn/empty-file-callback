@@ -31,10 +31,10 @@
     "is-obj": "^1.0.1"
   },
   "devDependencies": {
-    "@shinnn/eslint-config-node-legacy": "^2.0.0",
-    "eslint": "^2.7.0",
-    "istanbul": "^0.4.3",
+    "@shinnn/eslint-config-node-legacy": "^3.0.0",
+    "eslint": "^3.2.0",
+    "istanbul": "^0.4.4",
     "pify": "^2.3.0",
-    "tape": "^4.5.1"
+    "tape": "^4.6.0"
   }
 }
