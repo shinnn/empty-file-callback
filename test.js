@@ -1,4 +1,4 @@
-'use strong';
+'use strict';
 
 const emptyFileCallback = require('.');
 const pify = require('pify');
